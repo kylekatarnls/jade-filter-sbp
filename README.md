@@ -1,3 +1,5 @@
+This repository now lives on https://github.com/pug-php/pug-filter-sbp
+
 # pug-filter-sbp
 SBP filter for Pug-php
 
